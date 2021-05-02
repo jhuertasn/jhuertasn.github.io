@@ -5,18 +5,19 @@
 
 
 h1{
-    font-size: 25px;
+    font-size: 28px;
     font-family: sans-serif;
     font-weight: bold;
 }
 
 h2{
     font-weight: bold;
-    font-size: 18px;
+    font-size: 20px;
     font-family: sans-serif;
     border: 1px solid black;
     margin-top: 15px;
 }
+
 
 h3{
     font-weight: bold;
