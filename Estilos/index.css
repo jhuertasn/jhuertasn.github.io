@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
 
 
@@ -37,6 +38,7 @@ text-align: center;
 background-image: url("../Estilos/imagenes css/fondo\ de\ pagina.jpg");
 background-repeat: no-repeat center center fixed;
 background-size:cover;
+background-attachment: fixed;
 
 }
 
@@ -60,6 +62,7 @@ background-size:cover;
     padding: 5px 15px ;
     text-align: left;
     border:1px solid #999999;
+    text-decoration: none;
 }
 
 .menu li{
@@ -67,6 +70,7 @@ background-size:cover;
     padding: 5px;
     font: bold 14px verdana;
     display: inline-block;
+    
 }
 
 .seccion {
