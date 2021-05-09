@@ -37,7 +37,7 @@ header, section, footer, aside, nav, article,p,h2 {
 display: block;
 
 }
-
+/* fondo de pantalla de la pagina */
 body {
 text-align: center;
 background-image: url("../Estilos/imagenes css/fondo\ de\ pagina.jpg");
@@ -66,6 +66,7 @@ background-size:cover;
     padding: 5px 15px ;
     text-align: left;
     border:1px solid #999999;
+    text-decoration: none;
 }
 
 .menu li{
