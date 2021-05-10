@@ -43,6 +43,7 @@ text-align: center;
 background-image: url("../Estilos/imagenes css/fondo\ de\ pagina.jpg");
 background-repeat: no-repeat center center fixed;
 background-size:cover;
+background-attachment: fixed
 
 }
 
