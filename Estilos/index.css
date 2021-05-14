@@ -73,6 +73,10 @@ background-attachment: fixed;
     
 }
 
+li a {
+    color: blue;
+}
+
 .seccion {
     margin: 20px ;
     width: 600px;
