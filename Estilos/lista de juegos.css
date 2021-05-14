@@ -74,6 +74,9 @@ background-attachment: fixed;
     text-decoration: none;
     
 }
+li a {
+    color: blue;
+}
 
 .texto {
     background: #fffbcc;
