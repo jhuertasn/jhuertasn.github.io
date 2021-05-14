@@ -77,6 +77,10 @@ background-attachment: fixed
     display: inline-block;
 }
 
+li a {
+    color: blue;
+}
+
 .seccion {
     background: #fffbcc;
     border: 1px solid black;
