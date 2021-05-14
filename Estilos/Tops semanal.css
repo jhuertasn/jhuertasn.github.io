@@ -68,6 +68,9 @@ background-attachment: fixed;
     text-decoration: none;
 }
 
+li a {
+    color: blue;
+}
 .menu li{
     list-style: none;
     padding: 5px;
@@ -120,3 +123,6 @@ img{
 }
 
 
+ol h3 a{
+    color: blue;
+}
