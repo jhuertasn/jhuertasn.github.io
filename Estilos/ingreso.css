@@ -1,0 +1,136 @@
+ *{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+} 
+
+
+h1{
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+
+    
+}
+
+.use-1
+{
+    
+    float: left;
+    margin-top: 50px;
+    margin-left: 328px;
+    font-size: 25px; 
+    
+}
+
+.use-2
+{
+    float: left;
+    margin-top: 52px;
+    margin-left: -105px;
+     
+
+}
+
+.use-3
+{
+    float: left;
+    margin-top: 50px;
+    margin-left: 293px;
+    font-size: 25px; 
+
+}
+
+.use-4
+{  
+    margin-top: 50px;
+    margin-left: -105px;
+}
+
+.ingresar
+{
+    float: left;
+    margin-top: 40px;
+    margin-left: 445px;
+    font-size: 8px;
+    text-transform: uppercase;
+    border: solid black 1px;
+    padding: 13px 15px;
+    color: white;
+    background-color: blue;
+}
+
+.message
+{
+    margin-top: 25px;
+    margin-right: -10px;
+    font-size: 40px;
+
+}
+
+.insta
+{
+  
+    font-size: 20px;
+    border: 1px solid black;
+    float: left;
+    margin-top: 50px;
+    margin-left: 320px;
+    padding: 14px;
+    margin-right: 200px;
+    font-size: 40px;
+    background-color: orangered;
+
+}
+.twitter
+{
+ 
+    font-size: 20px;
+    border: 1px solid black;
+    float: left;
+    margin-top: 5px;
+    margin-left: 320px;
+    padding-left: 4px;
+    padding-right: 3px;
+    padding-bottom: 14px;
+    padding-top: 14px;
+    margin-right: 200px;
+    font-size: 38px;
+    background-color: blue;
+    
+}
+    
+body
+{
+text-align: center;
+background-image: url("../Estilos/imagenes css/fondo\ de\ pagina.jpg");
+background-repeat: no-repeat center center fixed;
+background-size:cover;
+background-attachment: fixed;
+
+}
+
+.agrupar 
+{
+    width: 960px;
+    border: 1px solid black;
+    margin: 15px auto;
+     padding: 40px;
+     background: white;
+     margin-top: 200px;
+     /* margin-bottom: 100px; */
+    
+}
+
+.final
+{
+    clear: both;
+    font: 14px verdana;
+    background: #ccc;
+    padding: 20px;
+    color: black;
+    border:1px solid #999999;
+    margin-top: 600px;
+  
+}
