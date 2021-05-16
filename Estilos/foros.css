@@ -4,124 +4,69 @@
     text-decoration: none;
 }
 
-.cerrar{
-    width: 150px;
-    border: 1px solid black;
-    float: left;
-    margin-top: 0px;
-    margin-left: 705px;
-    margin-bottom: 0px;
-    color: red;
-    font-size: 25px;
-    padding-bottom: 10px;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 5px;
-}
 
-.imagen1{
-    width: 150px;
-    float: left;
-    margin-left: 100px;
-    margin-top: 30px;
-    border-radius:150px;
-}
+
+
 
 
 h1{
     font-size: 28px;
     font-family: sans-serif;
     font-weight: bold;
+    padding: 20px;
 }
 
+.foros
+{   margin-top: 100px;
+    font-size: 80px;
 
-h3{
-    font-weight: bold;
-    font-size: 50px;
-    font-family: sans-serif;
-    float: center;
-    margin-top: 50px;
-    margin-bottom: 95px;
 }
 
-.editar{
-    font-weight: bold;
+.temas{
+    background: #fffbcc;
+    border: 1px solid #999;
+    padding: 200px;
+    margin-bottom: 10px;
+    margin-right: 300px;
+}
+
+.comentarios
+{
+    background: #fffbcc;
+    border: 1px solid #999;
+    padding: 50px;
+    margin-bottom: 10px;
+    margin-right: 300px;
+}
+
+.ingresar
+{
+    margin-top: 0px;
+    background-color: #4698FF;
+    padding: 20px;
     font-size: 20px;
-    font-family: sans-serif;
-    border: 1px solid black;
-    float: right;
-    margin-right: 55px;
-    padding: 5px;
-    padding-left: 50px;
-    padding-right: 50px;
-    margin-top: -50px;
-    color: blue;
-    
-}
-.mensaje{
-    font-weight: bold;
-    font-size: 20px;
-    font-family: sans-serif;
-    border: 1px solid blue;
-    
-    margin-top: 45px;
-    margin-left: 40px;
-    padding: 40px;
-    margin-right: 423px;
+    padding-left: 30px;
+    padding-right: 35px;
+    color: black;
 
 }
 
-.visitas{
-    font-weight: bold;
-    font-size: 20px;
-    font-family: sans-serif;
-    border: 1px solid blue;
-    float: right;
-    margin-top: -125px;
-    margin-left: 40px;
-    padding: 40px;
-
-}
-
-.informacion{
-    font-weight: bold;
-    font-size: 20px;
-    font-family: sans-serif;
-    border: 1px solid black;
-    
-    margin-top: 10px;
-    margin-left: 40px;
-    padding: 40px;
-    background:#FFFBB9 ;
-    margin-right: 425px;
-}
-
-.lista{
-    font-weight: bold;
-    font-size: 18px;
-    font-family: sans-serif;
-    text-align: center;
-    margin-top: 200px;
-
-}
 
 .columna{
-    width: 350px;
+    width: 200px;
+    height: 518px;
     float: right;
-    margin-top: -225px;
+    margin-top: -610px;
     font-size: 24px;
+    border: 1px solid black;
+    padding: 40px;
+    background: #FFFBB9;
+    margin-bottom: 20px;
+
   
    
 }
-.item{
-    
-    padding: 25px;
-    background: #FFFBB9;
-    margin: 5px;
-    font-size: 15px;
-    text-align: left;
-    
-}
+
 
 header, section, footer, aside, nav, article,p,h2 {
 
@@ -184,44 +129,7 @@ li a {
     padding: 20px;
     color: black;
     border:1px solid #999999;
-    margin-top: 500px;
+    margin-top: 90px;
 }
   
 
-
-.imagen2{
-width: 100px;
-float: right;
-margin-top: 5px;
-margin-right: 8px;
-}
-
-.bordes{
-border: 12px solid rgb(46, 9, 207) ;
-margin-bottom: 100px;
-
-}
-
-.juegos{
-    font-weight: bold;
-    font-size: 20px;
-    font-family: sans-serif;
-    border: 1px solid black;
-    margin-top: 10px;
-    margin-left: 40px;
-    padding: 40px;
-    background:#FFFBB9 ;
-    margin-right: 425px;
-}
-
-.firma{
-    font-weight: bold;
-    font-size: 20px;
-    font-family: sans-serif;
-    border: 1px solid black;
-    margin-top: 10px;
-    margin-left: 40px;
-    padding: 22px;
-    background:#FFFBB9 ;
-    margin-right: 425px;
-}
