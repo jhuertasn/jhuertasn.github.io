@@ -72,37 +72,13 @@ h1{
     font-size: 40px;
 
 }
-
 .insta
 {
-  
-    font-size: 20px;
-    border: 1px solid black;
-    float: left;
-    margin-top: 50px;
-    margin-left: 320px;
-    padding: 14px;
-    margin-right: 200px;
-    font-size: 40px;
-    background-color: orangered;
-
+   
 }
 .twitter
 {
- 
-    font-size: 20px;
-    border: 1px solid black;
-    float: left;
-    margin-top: 5px;
-    margin-left: 320px;
-    padding-left: 4px;
-    padding-right: 3px;
-    padding-bottom: 14px;
-    padding-top: 14px;
-    margin-right: 200px;
-    font-size: 38px;
-    background-color: blue;
-    
+   
 }
     
 body
