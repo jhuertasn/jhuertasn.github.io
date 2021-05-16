@@ -7,10 +7,11 @@
 
 
 h1{
-    font-size: 32px;
+    font-size: 50px;
     font-family: sans-serif;
     font-weight: bold;
     margin-top: 80px;
+    margin-bottom: 120px;
 
     
 }
@@ -19,76 +20,78 @@ h1{
 .use-1
 {
     
-    float: left;
-    margin-top: 160px;
-    margin-left: 280px;
-    font-size: 25px;
-     
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 35px;
+    
     
 }
 
 .use-2
 {
-    float: center;
-    margin-top: 160px;
-    margin-left: -90px;
-    width: 160px;
-    height: 18px;
+    
+    margin-top: 50px;
+    margin-left: 40px;
+    width: 250px;
+    height: 35px;
      
 
 }
 
 .use-3
 {
-    float: left;
-    margin-top: 50px;
-    margin-left: 370px;
-    font-size: 25px; 
     
+    margin-top: 50px;
+    margin-left:150px;
+    font-size: 35px; 
+    
+    margin-bottom: 20px;
 
 }
 
 .use-4
 {  
     margin-top: 50px;
-    margin-left: -90px;
-    width: 160px;
-    height: 18px;
+    margin-left: 40px;
+    width: 250px;
+    height: 35px;
+    margin-bottom: 20px;
 }
 .use-5
 {
-    float: left;
-    margin-top: 50px;
-    margin-left: 350px;
-    font-size: 25px;  
+    margin-top: 20px;
+    margin-left:150px;
+    font-size: 35px; 
+    margin-bottom: 50px;
 }
 
 .use-6
 {  
-    float: left;
-    margin-top: 50px;
-    margin-left: -90px;
-    width: 160px;
-    height: 18px;
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 250px;
+    height: 35px;
+    margin-bottom: 50px;
 }
 
 .registrarse
 {
-    float: center;
-    margin-top: 45px;
-    margin-left: 415px;
-    font-size: 12px;
+
+    margin-top: 0px;
+    margin-left: 0px;
+    font-size: 20px;
     border: solid black 1px;
     padding: 13px 60px;
-    background-color: skyblue;
+    background-color: #4698FF;
    
 }
 
-.message
+.mensaje
 {
     margin-top: 25px;
     margin-right: -20px;
-    font-size: 25px;
+    font-size: 30px;
+    margin-bottom: 0px;
 
 }
     
@@ -114,14 +117,21 @@ background-attachment: fixed;
     
 }
 
-.final
-{
-    clear: both;
-    font: 14px verdana;
-    background: #ccc;
+
+
+
+.google
+{   margin-top: 0px;
+    background-color: orangered;
     padding: 20px;
-    color: black;
-    border:1px solid #999999;
-    margin-top: 500px;
-  
+    font-size: 30px;
+    padding-left: 38px;
+    padding-right: 35px;
+}
+
+.facebook
+{   margin-top: 20px;
+    background-color: #4F65FF ;
+    padding: 20px;
+    font-size: 30px;
 }
