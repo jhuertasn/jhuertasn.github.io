@@ -117,7 +117,7 @@ img{
     font-size: 25px;
     font-family: sans-serif;
     clear: both;
-    padding: 30px;
+    padding: 20px;
     border: 1px solid black;
     
 }
@@ -126,3 +126,36 @@ img{
 ol h3 a{
     color: blue;
 }
+
+.columna{
+    width: 950px;
+    height: 300px;
+    margin: 20px ;
+}
+
+.imagen1{
+    width: 300px;
+    height: 200px;
+    float: right;
+    margin-top: 35px;
+    margin-right: 10px;
+    margin-left: 0px;
+    }
+
+ .imagen2{
+        width: 300px;
+        height: 200px;
+        float: center;
+        margin-top: 35px;
+        margin-right: 0px;
+        margin-left: 30px;
+        }   
+
+ .imagen3{
+            width: 300px;
+            height: 200px;
+            float: left;
+            margin-top: 35px;
+            margin-right: 0px;
+            margin-left: 0px;
+            }  
