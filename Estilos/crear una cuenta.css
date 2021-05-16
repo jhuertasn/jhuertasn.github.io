@@ -1,1 +1,127 @@
 
+ *{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+} 
+
+
+h1{
+    font-size: 32px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 80px;
+
+    
+}
+
+
+.use-1
+{
+    
+    float: left;
+    margin-top: 160px;
+    margin-left: 280px;
+    font-size: 25px;
+     
+    
+}
+
+.use-2
+{
+    float: center;
+    margin-top: 160px;
+    margin-left: -90px;
+    width: 160px;
+    height: 18px;
+     
+
+}
+
+.use-3
+{
+    float: left;
+    margin-top: 50px;
+    margin-left: 370px;
+    font-size: 25px; 
+    
+
+}
+
+.use-4
+{  
+    margin-top: 50px;
+    margin-left: -90px;
+    width: 160px;
+    height: 18px;
+}
+.use-5
+{
+    float: left;
+    margin-top: 50px;
+    margin-left: 350px;
+    font-size: 25px;  
+}
+
+.use-6
+{  
+    float: left;
+    margin-top: 50px;
+    margin-left: -90px;
+    width: 160px;
+    height: 18px;
+}
+
+.registrarse
+{
+    float: center;
+    margin-top: 45px;
+    margin-left: 415px;
+    font-size: 12px;
+    border: solid black 1px;
+    padding: 13px 60px;
+    background-color: skyblue;
+   
+}
+
+.message
+{
+    margin-top: 25px;
+    margin-right: -20px;
+    font-size: 25px;
+
+}
+    
+body
+{
+text-align: center;
+background-image: url("../Estilos/imagenes css/fondo\ de\ pagina.jpg");
+background-repeat: no-repeat center center fixed;
+background-size:cover;
+background-attachment: fixed;
+
+}
+
+.agrupar 
+{
+    width: 960px;
+    border: 1px solid black;
+    margin: 15px auto;
+     padding: 40px;
+     background: white;
+     margin-bottom: 200px;
+    
+    
+}
+
+.final
+{
+    clear: both;
+    font: 14px verdana;
+    background: #ccc;
+    padding: 20px;
+    color: black;
+    border:1px solid #999999;
+    margin-top: 500px;
+  
+}
