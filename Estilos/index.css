@@ -107,19 +107,9 @@ time{
     color:#999
 }
 
-.columna{
-    width: 300px;
-    
-    float: left;
-    margin: 20px 0;
-}
 
-.columna blockquote{
-    border: 1px solid black;
-    padding: 40px;
-    background: #FFFBB9;
-    margin-bottom: 20px;
-}
+
+
 
 ol{
         font-weight: bold;
@@ -145,3 +135,30 @@ ol h2{
     border:1px solid #999999;
     margin-top: 100px ;
 }
+
+.imagen1{
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin-top: 35px;
+    margin-right: -20px;
+    margin-left: 0px;
+    }
+
+ .imagen2{
+        width: 300px;
+        height: 350px;
+        float: right;
+        margin-top: 80px;
+        margin-right: -20px;
+        margin-left: 0px;
+        }   
+
+ .imagen3{
+            width: 300px;
+            height: 400px;
+            float: right;
+            margin-top: 80px;
+            margin-right: -20px;
+            margin-left: 0px;
+            }  
