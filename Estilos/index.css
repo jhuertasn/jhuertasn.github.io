@@ -143,6 +143,7 @@ ol h2{
     margin-top: 35px;
     margin-right: -20px;
     margin-left: 0px;
+    object-fit: cover;
     }
 
  .imagen2{
@@ -152,13 +153,15 @@ ol h2{
         margin-top: 80px;
         margin-right: -20px;
         margin-left: 0px;
+        object-fit: cover;
         }   
 
  .imagen3{
             width: 300px;
-            height: 400px;
+            height: 300px;
             float: right;
             margin-top: 80px;
             margin-right: -20px;
             margin-left: 0px;
+            
             }  
