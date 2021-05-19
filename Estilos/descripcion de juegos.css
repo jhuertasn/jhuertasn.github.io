@@ -12,10 +12,11 @@ h1{
 
 h2{
     font-weight: bold;
-    font-size: 20px;
+    font-size: 25px;
     font-family: sans-serif;
     border: 1px solid black;
     margin-top: 15px;
+    margin-bottom: 10px;
 }
 
 
@@ -88,6 +89,7 @@ li a {
     text-align: justify;
     font: 14px verdana;
     margin-bottom: 15px;
+    font-size: 20px;
 
 }
 
@@ -95,6 +97,7 @@ li a {
     text-align: center;
     margin-bottom: 20px;
     font: bold 18px verdana;
+    font-size: 25px;
 }
 
 .imagenes tr td img{
@@ -157,3 +160,4 @@ address{
     color: black;
     border:1px solid #999999;
 }
+
