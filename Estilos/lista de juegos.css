@@ -97,8 +97,25 @@ li a {
     color: black;
     border:1px solid #999999;
     text-align: center;
+    margin-top: 50px;
 }
 
 img{
     width: 200px;
+    border-radius: 10px;
+}
+
+
+table tr a
+{
+    font-size: 20px;
+   
+    text-align: center;
+    
+}
+
+table tr td p
+{
+    padding: 0px;
+    font-size: 20px;
 }
