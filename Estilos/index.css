@@ -142,7 +142,8 @@ ol h2{
     margin-right: 0px;
     margin-left: 0px;
     object-fit: cover;
-    
+    border-radius: 20px;
+    box-shadow: 8px 8px 12px black;
     }
 
  .imagen2{
@@ -153,7 +154,8 @@ ol h2{
         margin-right: 0px;
         margin-left: 0px;
         object-fit: cover;
-       
+        border-radius: 20px;
+        box-shadow: 8px 8px 12px black;
         }   
 
  .imagen3{
@@ -163,7 +165,8 @@ ol h2{
             margin-top: 150px;
             margin-right: 0px;
             margin-left: 0px;
-            
+            border-radius: 20px;
+    box-shadow: 8px 8px 12px black;
             
             } 
             
