@@ -101,6 +101,8 @@ li a {
     float: center;
     margin: 9px;
     width: 300px;
+    border-radius: 10px;
+    
 }
 .comentario{
     font: bold 18px verdana;
