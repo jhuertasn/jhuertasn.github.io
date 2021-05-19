@@ -90,6 +90,7 @@ li a {
     color: black;
     border:1px solid #999999;
     text-align: center;
+    margin-top: 50px;
 }
 
 img{
@@ -140,6 +141,8 @@ ol h3 a{
     margin-top: 35px;
     margin-right: 10px;
     margin-left: 0px;
+    border-radius: 20px;
+    box-shadow: 8px 8px 12px black;
     }
 
  .imagen2{
@@ -149,6 +152,8 @@ ol h3 a{
         margin-top: 35px;
         margin-right: 0px;
         margin-left: 30px;
+        border-radius: 20px;
+    box-shadow: 8px 8px 12px black;
         }   
 
  .imagen3{
@@ -158,4 +163,6 @@ ol h3 a{
             margin-top: 35px;
             margin-right: 0px;
             margin-left: 0px;
+            border-radius: 20px;
+    box-shadow: 8px 8px 12px black;
             }  
